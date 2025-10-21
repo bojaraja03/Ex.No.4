@@ -1,6 +1,6 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:22/09/25                                                                            
+### REGISTER NUMBER : 25015352
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
 ### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
@@ -45,6 +45,7 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
+[Experiment-4 Scenario Based Prompting Techniques.pdf](https://github.com/user-attachments/files/23013219/Experiment-4.Scenario.Based.Prompting.Techniques.pdf)
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
